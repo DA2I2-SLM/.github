@@ -26,4 +26,3 @@ The group is based at the [Applied Artificial Intelligence Institute
 - 📈 **Time-series intelligence.** Forecasting, error correction, and memory for
   temporal and streaming data.
 
----
